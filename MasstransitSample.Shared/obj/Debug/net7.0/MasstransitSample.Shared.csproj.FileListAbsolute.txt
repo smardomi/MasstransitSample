@@ -1,0 +1,12 @@
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\bin\Debug\net7.0\MasstransitSample.Shared.deps.json
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\bin\Debug\net7.0\MasstransitSample.Shared.dll
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\bin\Debug\net7.0\MasstransitSample.Shared.pdb
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.csproj.AssemblyReference.cache
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.AssemblyInfoInputs.cache
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.AssemblyInfo.cs
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.csproj.CoreCompileInputs.cache
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.dll
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\refint\MasstransitSample.Shared.dll
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\MasstransitSample.Shared.pdb
+D:\Mardomi\Projects\MasstransitSample\MasstransitSample.Shared\obj\Debug\net7.0\ref\MasstransitSample.Shared.dll
